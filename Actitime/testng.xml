@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="com.actitime.timetrack.Demo"/>
+      <class name="com.actitime.timetrack.Demo2"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
